@@ -1,8 +1,8 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # Project title
+  title:        "All-Digital Phase-Locked Loop"      # Project title
   author:       "Doh-Hyoung Lee"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      "ender_7103"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
   language:     "Analog" # other examples include Verilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
