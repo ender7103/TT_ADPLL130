@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "All-Digital Phase-Locked Loop"      # Project title
+  title:        "All-Digital Phase-Locked Loop in 130-nm"      # Project title
   author:       "Doh-Hyoung Lee"      # Your name
   discord:      "ender_7103"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  ""      # One line description of what your project does
